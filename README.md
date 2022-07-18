@@ -1,4 +1,6 @@
-TinDog Starting Files
+TinDog Starting Files.
+
+
 This website is designed with a CSS framework which is Bootsrap.
 
 The screenshot of the homepage:
